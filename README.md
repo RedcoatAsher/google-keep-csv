@@ -7,9 +7,9 @@ Apparently there's no simple way to export your notes from Google Keep to CSV. T
 1. Clone or download this repository
 1. Open a terminal to the repository folder (`google-keep-scraper`)
 ### If you have python installed...
-1. Run `pipenv install` to install dependencies
+3. Run `pipenv install` to install dependencies
 ### If you don't already have python installed...
-1. Run `sh install.sh` to auto-install python + dependencies
+3. Run `sh install.sh` to auto-install python + dependencies
 
 ## Import Keep Archive
 First we need to download all the Keep files through Google Takeout.
